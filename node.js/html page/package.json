@@ -1,0 +1,27 @@
+{
+    "name": "node_server",
+    "version": "1.0.0",
+    "description": "Node.js Server Practice",
+    "main": "app.js",
+    "scripts": {
+      "test": "node app.js",
+      "start": "node app_fs.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/geoseong/Node.js-Test.git"
+    },
+    "keywords": [
+      "nodejs",
+      "test",
+      "tspark"
+    ],
+    "author": "tspark",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/geoseong/Node.js-Test/issues"
+    },
+    "homepage": "https://github.com/geoseong/Node.js-Test#readme"
+  }
+  
+  

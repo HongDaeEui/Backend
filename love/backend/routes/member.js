@@ -1,5 +1,6 @@
 const express = require("express");
 const router = express.Router();
+const mysql = require("../mysql");
 
 // 멤버 정보 조회 라우터
 router.get("/search", async (req, res) => {
